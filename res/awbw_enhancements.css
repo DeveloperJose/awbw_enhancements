@@ -126,7 +126,6 @@
   border-color: rgb(205, 155, 154);
 }
 
-
 .awbwenhancements-aa-player-banner {
   background: linear-gradient(to right, rgb(132, 223, 232), rgb(58, 158, 230));
 }
@@ -134,6 +133,31 @@
 .awbwenhancements-aa-player-border {
   border-color: rgb(58, 158, 230);
 }
+
+.awbwenhancements-ne-player-banner {
+  background: linear-gradient(to right, rgb(110, 96, 96), rgb(46, 38, 38));
+}
+
+.awbwenhancements-ne-player-border {
+  border-color: rgb(46, 38, 38);
+}
+
+.awbwenhancements-sc-player-banner {
+  background: linear-gradient(to right, rgb(140, 172, 188), rgb(61, 100, 121));
+}
+
+.awbwenhancements-sc-player-border {
+  border-color: rgb(61, 100, 121);
+}
+
+.awbwenhancements-uw-player-banner {
+  background: linear-gradient(to right, rgb(212, 119, 0), rgb(133, 64, 0))
+}
+
+.awbwenhancements-uw-player-border {
+  border-color: rgb(133, 64, 0);
+}
+
 
 .awbwenhancements-btn {
     display: flex;
